@@ -1,0 +1,10 @@
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fiboestru\pregunta1fiboestru\bin\Debug\pregunta1fiboestru.exe.config
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fiboestru\pregunta1fiboestru\bin\Debug\pregunta1fiboestru.XML
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fiboestru\pregunta1fiboestru\bin\Debug\pregunta1fiboestru.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fiboestru\pregunta1fiboestru\bin\Debug\pregunta1fiboestru.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fiboestru\pregunta1fiboestru\bin\Debug\FSharp.Core.dll
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fiboestru\pregunta1fiboestru\bin\Debug\FSharp.Core.xml
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fiboestru\pregunta1fiboestru\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fiboestru\pregunta1fiboestru\obj\Debug\pregunta1fiboestru.fsprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fiboestru\pregunta1fiboestru\obj\Debug\pregunta1fiboestru.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fiboestru\pregunta1fiboestru\obj\Debug\pregunta1fiboestru.pdb

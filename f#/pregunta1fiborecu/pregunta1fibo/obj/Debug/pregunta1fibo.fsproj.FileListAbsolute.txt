@@ -1,0 +1,10 @@
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fibo\pregunta1fibo\obj\Debug\pregunta1fibo.fsprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fibo\pregunta1fibo\bin\Debug\pregunta1fibo.exe.config
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fibo\pregunta1fibo\bin\Debug\pregunta1fibo.XML
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fibo\pregunta1fibo\bin\Debug\pregunta1fibo.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fibo\pregunta1fibo\bin\Debug\pregunta1fibo.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fibo\pregunta1fibo\bin\Debug\FSharp.Core.dll
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fibo\pregunta1fibo\bin\Debug\FSharp.Core.xml
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fibo\pregunta1fibo\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fibo\pregunta1fibo\obj\Debug\pregunta1fibo.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta1fibo\pregunta1fibo\obj\Debug\pregunta1fibo.pdb
